@@ -1,0 +1,14 @@
+[
+   {
+      "repository":"android_device_google_bonito",
+      "target_path":"device/google/bonito",
+      "branch":"13",
+      "remote":"pdd"
+   },
+   {
+      "repository":"android_vendor_google_sargo",
+      "target_path":"vendor/google/sargo",
+      "branch":"13",
+      "remote":"pdd"
+   }
+]
